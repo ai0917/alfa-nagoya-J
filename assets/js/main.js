@@ -24,7 +24,7 @@ const app = Vue.createApp({
           q1: '校外学習',
           q2: 'クリスマス',
           q3: 'ハイキング'
-          q４: 'クッキー'
+        
         },
         stage3: {
           q1: '告白',
@@ -44,7 +44,7 @@ const app = Vue.createApp({
           false,  2-1
            false,  2-2
            false,  2-3
-            false,  2-4
+       
         ],
         stage3: [
           false, // 3-1
