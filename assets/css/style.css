@@ -239,15 +239,15 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #cc99ff;
+  background-color: #FFCCFF;
 }
 
 .bg-color--subcolor {
-  background-color: #ccccff;
+  background-color: #CCFFCC;
 }
 
 .bg-color--gray {
-  background-color: #ffccff;
+  background-color: #CC99CC;
 }
 
 /*********************
@@ -337,7 +337,7 @@ button {
   text-decoration: none;
   cursor: pointer;
   background-color: #CC99CC;
-  color: #CC99CC;
+  color: #fff;
   font-size: 24px;
   line-height: 1.54167;
   text-align: center;
