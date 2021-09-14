@@ -307,7 +307,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #006837;
+  color: #CC99CC;
 }
 
 .section-title--border::after {
@@ -337,7 +337,7 @@ button {
   text-decoration: none;
   cursor: pointer;
   background-color: #CC99CC;
-  color: #fff;
+  color: #CC99CC;
   font-size: 24px;
   line-height: 1.54167;
   text-align: center;
